@@ -1,0 +1,19 @@
+participante,tarea,exito,tiempo_s,errores_criticos,errores_no_criticos,pista,pidio_repetir,respuesta_o_estado_final,observaciones
+P1,T1,Si,9,0,0,No,No,«Diez minutos y hasta las seis.»,Leyó el aviso de la pantalla de inicio sin moverse de ella.
+P1,T2,Si,14,0,0,No,No,"«No se puede, está agotada, vuelve mañana.»",Fue directo al menú y encontró la tarjeta sin usar filtros.
+P1,T3,Si,41,0,0,No,No,"«Dos setenta.» Pedido: 1 × Capuchino (mediano, leche de almendra) $2,70.","Leyó el precio en el botón de agregar, que se actualiza con las opciones."
+P1,T4,Si,25,0,0,No,No,"«Tres noventa.» Pedido: capuchino + Pan de yuca × 2 ($1,20).","Dudó si $1,20 era el precio de cada pan; lo resolvió mirando el total."
+P1,T5,Si,31,0,1,No,No,"Pedido: capuchino + 1 pan de yuca, total $3,30.","Pulsó «Quitar» esperando restar una unidad; se borró la línea, usó «Deshacer» y luego el botón −."
+P1,T6,Si,58,0,0,No,No,"«031, y pago 3,30 al retirar.» Retiro: 11:15.","Abrió «Programar una hora», escribió 11:15 y verificó la hora en la revisión antes de confirmar."
+P2,T1,Si,7,0,0,No,No,«Diez minutos; atienden hasta las 18:00.»,Respuesta inmediata desde la pantalla de inicio.
+P2,T2,Si,11,0,0,No,No,"«Agotada, vuelve mañana.»",Recorrió el menú con la rueda del mouse.
+P2,T3,Si,33,0,0,No,No,"«2,70.» Pedido correcto.",Eligió tamaño y leche sin dudar.
+P2,T4,Si,19,0,0,No,No,"«3,90.» Pedido correcto.",Usó el selector de cantidad del detalle.
+P2,T5,Si,9,0,0,No,No,"Pedido: capuchino + 1 pan, $3,30.",Usó directamente el botón −.
+P2,T6,No,47,1,0,No,No,"«031 y 3,30.» Retiro confirmado: lo antes posible (09:51).",No abrió «Programar una hora»; confirmó con la opción preseleccionada y no leyó la línea de retiro en la revisión.
+P3,T1,Si,18,0,0,No,No,"«Hasta las seis de la tarde, y preparan en diez minutos.»",Leyó en voz alta todo el aviso antes de responder.
+P3,T2,Si,27,0,1,No,No,"«No se puede, está agotada; vuelve mañana.»",Primero filtró por Bebidas; corrigió a Comida y encontró la tarjeta.
+P3,T3,Si,96,0,1,No,No,"«2,70.» Pedido final: 1 × Capuchino (mediano, leche de almendra).","Agregó el capuchino con leche entera porque no bajó a ver las leches; lo notó en el pedido, lo quitó y lo volvió a armar."
+P3,T4,Si,52,0,0,No,No,«Tres noventa.»,Buscó cómo poner dos unidades; encontró el botón + del detalle.
+P3,T5,Si,44,0,1,No,No,"Pedido: capuchino + 1 pan, $3,30.","Pulsó «Quitar», no vio «Deshacer» y volvió al menú a agregar un pan."
+P3,T6,Si,121,0,1,No,Sí,"«031, pago 3,30.» Retiro: 11:15.","Pidió repetir la situación. Escribió 11 y 15 sin elegir a. m./p. m.; apareció «Ingresa la hora a la que pasarás a retirar», dudó y completó a. m."
