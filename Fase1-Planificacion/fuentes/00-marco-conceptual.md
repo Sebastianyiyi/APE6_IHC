@@ -1,7 +1,7 @@
 # Marco conceptual · Evaluación y validación de la usabilidad
 
 **Responsable de este documento:** González Álvarez Vladimir Humberto
-Resumen de los conceptos que sustentan el plan de evaluación de CaféU v3. Las referencias completas están en el [informe](../informe/) (sección 2.11).
+Resumen de los conceptos que sustentan el plan de evaluación de CaféU v3. Las referencias completas están en el [informe de la Fase 1](../Informe_APE6_Fase1.pdf) (sección 2.11).
 
 ## 1. Usabilidad según ISO 9241-11
 La norma ISO 9241-11:2018 define la usabilidad como el grado en que un sistema puede ser usado por **usuarios específicos** para lograr **objetivos específicos** con **eficacia**, **eficiencia** y **satisfacción** en un **contexto de uso** determinado [ISO 9241-11].

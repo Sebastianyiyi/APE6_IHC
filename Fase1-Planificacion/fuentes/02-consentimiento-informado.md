@@ -1,7 +1,7 @@
 # Consentimiento informado · Prueba de usabilidad de CaféU
 
 **Responsable de este documento:** Mora Beltrán Santiago Sebastián (moderador)
-**Uso:** el moderador lo lee en voz alta antes de empezar y entrega una copia impresa ([`imprimibles/consentimiento-informado.pdf`](imprimibles/consentimiento-informado.pdf)). El participante firma solo con su código; no se escribe su nombre.
+**Uso:** el moderador lo lee en voz alta antes de empezar y entrega una copia impresa ([`Consentimiento_Informado.pdf`](../Consentimiento_Informado.pdf)). El participante firma solo con su código; no se escribe su nombre.
 
 ---
 

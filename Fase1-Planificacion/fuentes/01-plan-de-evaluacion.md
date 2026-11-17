@@ -12,7 +12,7 @@
 | Elemento | Definición |
 |---|---|
 | **Sistema** | CaféU v3: prototipo navegable en HTML, CSS y JavaScript para pedir en la cafetería de la FISEI antes de llegar. Es la versión final del APE 4 integral, construida a partir de los wireframes y corregida con la prueba de esa práctica. |
-| **Enlace** | https://raw.githack.com/Sebastianyiyi/APE04_IHC/main/APE4-integral/prototipo/cafeu-v3.html (respaldo local: [`prototipo/cafeu-v3.html`](../prototipo/cafeu-v3.html)) |
+| **Enlace** | https://raw.githack.com/Sebastianyiyi/APE04_IHC/main/APE4-integral/prototipo/cafeu-v3.html (respaldo local: [`prototipo/cafeu-v3.html`](../../prototipo/cafeu-v3.html)) |
 | **Funciones incluidas** | Consultar horario y tiempo de preparación; ver el menú (7 productos), buscar sin tildes y filtrar por Bebidas o Comida; ver disponibilidad (producto agotado); personalizar tamaño y tipo de leche; elegir cantidad (1 a 9); revisar el pedido, cambiar cantidades, quitar y deshacer; elegir retiro «lo antes posible» o a una hora programada (09:51–17:45) con validación; revisar y confirmar; ver número de pedido y monto a pagar al retirar. |
 | **Fuera de alcance** | Pago en línea, cuentas de usuario, historial de pedidos y vista del personal de la cafetería (no existen en el prototipo). |
 | **Usuarios** | Estudiantes, docentes y personal administrativo de la FISEI que compran en la cafetería y tienen poco tiempo entre clases o reuniones. |
@@ -95,7 +95,7 @@ Seis tareas (2 de consulta y 4 de creación o modificación), con escenario, met
 
 ## 7. Consentimiento informado
 
-Se lee en voz alta antes de empezar y el participante lo acepta (firma o aceptación verbal registrada en la hoja). Garantiza participación **voluntaria**, **confidencialidad** y **anonimato**, la posibilidad de retirarse sin consecuencias y que se evalúa la aplicación, no a la persona. Texto completo: [02-consentimiento-informado.md](02-consentimiento-informado.md) (versión imprimible en [`imprimibles/`](imprimibles/)).
+Se lee en voz alta antes de empezar y el participante lo acepta (firma o aceptación verbal registrada en la hoja). Garantiza participación **voluntaria**, **confidencialidad** y **anonimato**, la posibilidad de retirarse sin consecuencias y que se evalúa la aplicación, no a la persona. Texto completo: [02-consentimiento-informado.md](02-consentimiento-informado.md) (versión imprimible: [`Consentimiento_Informado.pdf`](../Consentimiento_Informado.pdf)).
 
 ## 8. Roles del equipo
 
@@ -117,7 +117,7 @@ En la evaluación heurística los cuatro actúan como evaluadores independientes
 | Hoja de observación y cuestionario SUS | [04-hoja-de-observacion.md](04-hoja-de-observacion.md) |
 | Guía de evaluación heurística | [05-guia-evaluacion-heuristica.md](05-guia-evaluacion-heuristica.md) |
 | Guion de la sesión | [06-guion-de-la-sesion.md](06-guion-de-la-sesion.md) |
-| Plantillas de registro (Fase 2) | [`resultados/`](../resultados/) |
+| Plantillas de registro (Fase 2) | [`plantillas/`](../plantillas/) |
 
 ## 10. Logística
 
@@ -127,7 +127,7 @@ En la evaluación heurística los cuatro actúan como evaluadores independientes
 | Equipo | Laptop de 14″ con Chrome actualizado, mouse externo y conexión a internet; respaldo local `cafeu-v3.html` abierto en otra pestaña por si falla la red. |
 | Grabación | Solo audio y solo si el participante lo autoriza en el consentimiento. Sin video del rostro. |
 | Duración | 20 minutos por participante (guion en [06-guion-de-la-sesion.md](06-guion-de-la-sesion.md)). |
-| Datos | Hojas con código P1–P3; se transcriben a `resultados/` sin nombres; el audio se elimina al cerrar el análisis de la Fase 2. |
+| Datos | Hojas con código P1–P3; se transcriben a `Fase2-Pilotaje/` (participantes y datos) sin nombres; el audio se elimina al cerrar el análisis de la Fase 2. |
 
 ## 11. Criterios de validación del protocolo
 

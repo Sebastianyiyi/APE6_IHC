@@ -1,12 +1,12 @@
 # Hoja de observación y cuestionario SUS · CaféU v3
 
 **Responsable de este documento:** Vinces Cueva Boris Yussef (responsable de métricas)
-**Versión imprimible:** [`imprimibles/hoja-de-observacion.pdf`](imprimibles/hoja-de-observacion.pdf) (una copia por participante)
+**Versión imprimible:** [`Hoja_Observacion_SUS.pdf`](../Hoja_Observacion_SUS.pdf) (una copia por participante)
 
 ## Cómo se usa
 - Se imprime una hoja por participante (P1, P2, P3). Nunca se escribe el nombre.
 - La parte A la llena el soporte técnico antes de empezar; la parte B, el responsable de métricas durante las tareas; la parte C, el observador; la parte D (SUS) la responde el participante; la parte E la anota el moderador.
-- Al terminar, los datos se transcriben a las plantillas de [`resultados/`](../resultados/) sin redondear ni completar campos vacíos.
+- Al terminar, los datos se transcriben a las plantillas de [`plantillas/`](../plantillas/) sin redondear ni completar campos vacíos.
 
 ## Reglas de registro
 - **Éxito:** *Sí* = completa sin ayuda dentro del máximo · *Con ayuda* = completa después de la pista · *No* = no completa, abandona, responde mal o supera el máximo.

@@ -1,8 +1,8 @@
-# Resultados · APE 6
+# Plantillas de registro · APE 6
 
-**Responsable de esta carpeta:** Vinces Cueva Boris Yussef (responsable de métricas)
+**Responsable:** Vinces Cueva Boris Yussef (responsable de métricas)
 
-Esta carpeta recibe, en la **Fase 2**, los datos transcritos de las hojas de observación de P1, P2 y P3 y la evaluación heurística de los cuatro integrantes. En la Fase 1 contiene solo las plantillas, para que todos registren con el mismo formato.
+Plantillas definidas en la Fase 1 para que todos registren con el mismo formato. Los datos del pilotaje, ya llenos con este formato, están en [`Fase2-Pilotaje/datos/`](../../Fase2-Pilotaje/datos/).
 
 | Archivo | Contenido | Se llena con |
 |---|---|---|
@@ -15,7 +15,7 @@ Esta carpeta recibe, en la **Fase 2**, los datos transcritos de las hojas de obs
 - `exito` admite solo `Si`, `Con ayuda` o `No`.
 - No se completan campos vacíos ni se corrigen datos después de la sesión; las aclaraciones van en la columna `observaciones`.
 
-## Cálculos previstos (Fase 2)
+## Cálculos aplicados en la Fase 2
 - **Tasa de éxito por tarea** = número de `Si` / 3 × 100.
 - **Tiempo por tarea** = mediana de los tres tiempos (además del mínimo y el máximo).
 - **Errores** = suma de críticos y de no críticos por tarea.

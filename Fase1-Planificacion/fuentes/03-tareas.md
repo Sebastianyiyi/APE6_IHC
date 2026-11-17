@@ -1,8 +1,8 @@
 # Matriz de seis tareas · Prueba con usuarios de CaféU v3
 
 **Responsable de este documento:** Acaro Ibujés Pedro Sebastián (observador)
-**Prototipo:** [CaféU v3](https://raw.githack.com/Sebastianyiyi/APE04_IHC/main/APE4-integral/prototipo/cafeu-v3.html) · respaldo local: [`prototipo/cafeu-v3.html`](../prototipo/cafeu-v3.html)
-**Versión del documento:** 2 (ajustada después del ensayo interno del 11/11/2026)
+**Prototipo:** [CaféU v3](https://raw.githack.com/Sebastianyiyi/APE04_IHC/main/APE4-integral/prototipo/cafeu-v3.html) · respaldo local: [`prototipo/cafeu-v3.html`](../../prototipo/cafeu-v3.html)
+**Versión del protocolo:** 1 (redacción final tras la revisión interna del 11/11/2026). La versión 2, posterior al pilotaje, está en [`Fase2-Pilotaje/Ajustes_Protocolo_V1_V2.pdf`](../../Fase2-Pilotaje/Ajustes_Protocolo_V1_V2.pdf).
 
 El moderador lee cada escenario **tal como está escrito**, una sola vez y sin añadir explicaciones. Ningún escenario nombra botones, pantallas, iconos ni rótulos de la interfaz: describe una situación real y deja que el participante decida cómo resolverla.
 
@@ -86,9 +86,9 @@ El prototipo guarda el pedido solo en la memoria del navegador. Al terminar cada
 
 Si no se recarga, el siguiente participante vería el pedido anterior y en T6 obtendría N.º 032 en lugar de N.º 031.
 
-## 7. Registro de ajustes de las tareas (versión 1 → versión 2)
+## 7. Registro de ajustes de redacción (borrador → versión 1)
 
-| N.º | Versión 1 | Problema detectado en la revisión o el ensayo interno | Versión 2 |
+| N.º | Borrador | Problema detectado en la revisión o el ensayo interno | Versión 1 |
 |---|---|---|---|
 | 1 | T3: «…elige el tamaño mediano y la leche de almendra en las opciones del producto.» | «Opciones del producto» orienta hacia un control de la interfaz. | «Quieres un capuchino mediano con leche de almendra. Déjalo listo en tu pedido…» |
 | 2 | T5: «Quita un pan de yuca de tu pedido.» | «Quita» coincide con el rótulo del botón «Quitar», que además borra el producto completo: inducía la acción equivocada. | «…al final solo quiere un pan. Deja tu pedido como corresponde.» |
