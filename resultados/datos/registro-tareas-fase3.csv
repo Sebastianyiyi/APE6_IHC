@@ -1,0 +1,25 @@
+participante,tarea,tipo,exito,tiempo_s,errores_criticos,errores_no_criticos,pista,pidio_repetir,respuesta_o_estado_final,observaciones
+P1,T1,Base,Si,8,0,0,No,No,«Diez minutos; atiende hasta las seis.»,Leyó el aviso de inicio.
+P1,T2,Base,Si,19,0,1,No,No,"«No, está agotada; vuelve mañana.»",Probó primero el filtro «Bebidas» y cambió a «Comida».
+P1,T3,Base,Si,38,0,0,No,No,"«2,70.» Pedido correcto.",Eligió tamaño y leche bajando en la pantalla.
+P1,T4,Base,Si,22,0,0,No,No,"«3,90.»",Usó el + del detalle.
+P1,T5,Base,Si,26,0,1,No,No,"Capuchino + 1 pan, $3,30.","Pulsó «Quitar», se borró la línea, usó «Deshacer» y luego −."
+P1,T6,Base,Si,55,0,0,No,No,"«031, pago 3,30.» Hora confirmada: 11:15. Abrió programar: Sí.",Completó a. m. sin dudar.
+P1,T7,Refuerzo,Si,21,0,0,No,No,"«Chocolate caliente, 1,75.»",Escribió «cacao» en el buscador; apareció un solo resultado.
+P1,T8,Refuerzo,Si,18,0,0,No,No,Chocolate de nuevo en el pedido.,Pulsó «Deshacer» apenas apareció el aviso.
+P2,T1,Base,Si,12,0,0,No,No,«Hasta las 18:00; tardan diez minutos.»,Leyó el aviso completo en voz alta.
+P2,T2,Base,Si,20,0,0,No,No,"«No hay, vuelve mañana.»",Recorrió el menú completo.
+P2,T3,Base,Si,102,0,1,No,No,"«2,70.» Pedido final correcto.",Agregó con leche entera sin ver las leches; lo notó en el pedido y lo rehízo.
+P2,T4,Base,Si,48,0,0,No,No,"«3,90.»","Dudó si $1,20 era por cada pan."
+P2,T5,Base,Si,61,0,1,No,No,"Capuchino + 1 pan, $3,30.","Pulsó «Quitar», no vio el aviso y volvió al menú a agregar un pan."
+P2,T6,Base,Si,132,0,1,No,No,"«031, 3,30.» Hora confirmada: 11:15. Abrió programar: Sí.",Escribió 11:15 sin a. m.; apareció «Ingresa la hora…»; dudó y completó a. m.
+P2,T7,Refuerzo,Si,34,0,0,No,No,"«Chocolate caliente, uno setenta y cinco.»",Escribió «chocolate»; leyó el precio en el detalle.
+P2,T8,Refuerzo,No,41,1,0,No,No,Pedido vacío; no recuperó el producto sin el menú.,"Al quitar, miró la lista vacía; el aviso con «Deshacer» desapareció a los 6 s sin que lo viera."
+P3,T1,Base,Si,6,0,0,No,No,"«10 minutos, hasta las 18:00.»",Respuesta inmediata.
+P3,T2,Base,Si,10,0,0,No,No,"«Agotada, vuelve mañana.»",Fue directo a la tarjeta.
+P3,T3,Base,Si,29,0,0,No,No,"«2,70.»",Sin dudas.
+P3,T4,Base,Si,17,0,0,No,No,"«3,90.»",Sin dudas.
+P3,T5,Base,Si,8,0,0,No,No,"Capuchino + 1 pan, $3,30.",Usó el botón −.
+P3,T6,Base,No,44,1,0,No,No,"«031, 3,30.» Hora confirmada: lo antes posible (09:51). Abrió programar: No.",Confirmó con la opción preseleccionada; no revisó la línea de retiro.
+P3,T7,Refuerzo,Si,12,0,0,No,No,"«Chocolate caliente, 1,75.»",Escribió «chocolat» y apareció el producto.
+P3,T8,Refuerzo,Si,9,0,0,No,No,Chocolate de nuevo en el pedido.,Usó «Deshacer» de inmediato.
